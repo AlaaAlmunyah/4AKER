@@ -32,8 +32,7 @@ This project is a web application built using Flask that integrates file upload 
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone (https://github.com/AlaaAlmunyah/4AKER.git)
     ```
 
 2. Create and activate a virtual environment:
